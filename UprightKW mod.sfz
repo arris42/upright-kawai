@@ -1,0 +1,700 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : UprightKW mod
+// Author    : 
+// Copyright : 
+// Date      : 2023/02/01
+// Comment   : Sf2 imported from sfz by Polyphone
+
+<group>
+lokey=21 hikey=108
+lovel=0 hivel=80
+fil_type=lpf_2p
+cutoff=19913
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_attack=0.001
+ampeg_release=1.50004
+volume=-0.4764
+loop_mode=no_loop
+
+<region>
+sample=samples\A0vL.flac
+lokey=21 hikey=22
+pitch_keycenter=21
+lovel=0 hivel=80
+offset=0
+end=333823
+loop_start=244730
+loop_end=333808
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\C1vL.flac
+lokey=23 hikey=25
+pitch_keycenter=24
+lovel=0 hivel=80
+offset=0
+end=471202
+loop_start=325127
+loop_end=471187
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\D#1vL.flac
+lokey=26 hikey=28
+pitch_keycenter=27
+lovel=0 hivel=80
+offset=0
+end=566263
+loop_start=412198
+loop_end=566248
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\F#1vL.flac
+lokey=29 hikey=31
+pitch_keycenter=30
+lovel=0 hivel=80
+offset=0
+end=486991
+loop_start=335793
+loop_end=486976
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\A1vL.flac
+lokey=32 hikey=34
+pitch_keycenter=33
+lovel=0 hivel=80
+offset=0
+end=524046
+loop_start=348550
+loop_end=524031
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\C2vL.flac
+lokey=35 hikey=37
+pitch_keycenter=36
+lovel=0 hivel=80
+offset=0
+end=510401
+loop_start=397535
+loop_end=510386
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\D#2vL.flac
+lokey=38 hikey=40
+pitch_keycenter=39
+lovel=0 hivel=80
+offset=0
+end=585194
+loop_start=425067
+loop_end=585179
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\F#2vL.flac
+lokey=41 hikey=43
+pitch_keycenter=42
+lovel=0 hivel=80
+offset=0
+end=438576
+loop_start=327987
+loop_end=438561
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\A2vL.flac
+lokey=44 hikey=46
+pitch_keycenter=45
+lovel=0 hivel=80
+offset=0
+end=361172
+loop_start=240292
+loop_end=361157
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\C3vL.flac
+lokey=47 hikey=49
+pitch_keycenter=48
+lovel=0 hivel=80
+offset=0
+end=212689
+loop_start=137735
+loop_end=212674
+fil_type=lpf_2p
+cutoff=2501
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\D#3vL.flac
+lokey=50 hikey=52
+pitch_keycenter=51
+lovel=0 hivel=80
+offset=0
+end=255639
+loop_start=188513
+loop_end=255624
+fil_type=lpf_2p
+cutoff=1500
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\A4vL.flac
+lokey=53 hikey=70
+pitch_keycenter=69
+lovel=0 hivel=80
+offset=0
+end=94540
+loop_start=0
+loop_end=94539
+volume=2.5236
+
+<region>
+sample=samples\C5vL.flac
+lokey=71 hikey=73
+pitch_keycenter=72
+lovel=0 hivel=80
+offset=0
+end=94540
+loop_start=0
+loop_end=94539
+volume=2.5236
+
+<region>
+sample=samples\D#5vL.flac
+lokey=74 hikey=76
+pitch_keycenter=75
+lovel=0 hivel=80
+offset=0
+end=94540
+loop_start=0
+loop_end=94539
+volume=2.5236
+
+<region>
+sample=samples\F#5vL.flac
+lokey=77 hikey=79
+pitch_keycenter=78
+offset=0
+end=94540
+loop_start=0
+loop_end=94539
+volume=2.5236
+
+<region>
+sample=samples\A5vL.flac
+lokey=80 hikey=82
+pitch_keycenter=81
+lovel=0 hivel=80
+offset=0
+end=70740
+loop_start=0
+loop_end=70739
+volume=2.5236
+
+<region>
+sample=samples\C6vL.flac
+lokey=83 hikey=85
+pitch_keycenter=84
+lovel=0 hivel=80
+offset=0
+end=97442
+loop_start=0
+loop_end=97441
+volume=2.5236
+
+<region>
+sample=samples\D#6vL.flac
+lokey=86 hikey=88
+pitch_keycenter=87
+lovel=0 hivel=80
+offset=0
+end=47122
+loop_start=0
+loop_end=47121
+volume=2.5236
+
+<region>
+sample=samples\F#6vL.flac
+lokey=89 hikey=91
+pitch_keycenter=90
+lovel=0 hivel=80
+offset=0
+end=48200
+loop_start=0
+loop_end=48199
+volume=2.5236
+
+<region>
+sample=samples\A6vL.flac
+lokey=92 hikey=94
+pitch_keycenter=93
+lovel=0 hivel=80
+offset=0
+end=35508
+loop_start=0
+loop_end=35507
+volume=2.5236
+
+<region>
+sample=samples\C7vL.flac
+lokey=95 hikey=97
+pitch_keycenter=96
+lovel=0 hivel=80
+offset=0
+end=27709
+loop_start=0
+loop_end=27708
+volume=2.5236
+
+<region>
+sample=samples\D#7vL.flac
+lokey=98 hikey=100
+pitch_keycenter=99
+lovel=0 hivel=80
+offset=0
+end=34897
+loop_start=0
+loop_end=34896
+volume=2.5236
+
+<region>
+sample=samples\F#7vL.flac
+lokey=101 hikey=103
+pitch_keycenter=102
+lovel=0 hivel=80
+offset=0
+end=26659
+loop_start=0
+loop_end=26658
+volume=2.5236
+
+<region>
+sample=samples\A7vL.flac
+lokey=104 hikey=106
+pitch_keycenter=105
+lovel=0 hivel=80
+offset=0
+end=32405
+loop_start=0
+loop_end=32404
+volume=2.5236
+
+<region>
+sample=samples\C8vL.flac
+lokey=107 hikey=108
+pitch_keycenter=108
+lovel=0 hivel=80
+offset=0
+end=17368
+loop_start=0
+loop_end=17367
+volume=2.5236
+
+<group>
+lokey=21 hikey=108
+lovel=81 hivel=127
+fil_type=lpf_2p
+cutoff=19913
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_attack=0.001
+ampeg_release=1.50004
+volume=-0.4764
+loop_mode=no_loop
+
+<region>
+sample=samples\A0vH.flac
+lokey=21 hikey=22
+pitch_keycenter=21
+lovel=81 hivel=127
+offset=0
+end=310231
+loop_start=226952
+loop_end=310216
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\B0vH.flac
+lokey=23 hikey=23
+pitch_keycenter=23
+lovel=81 hivel=127
+offset=0
+end=332751
+loop_start=238766
+loop_end=332736
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\C1vH.flac
+lokey=24 hikey=25
+pitch_keycenter=24
+lovel=81 hivel=127
+offset=0
+end=424672
+loop_start=306378
+loop_end=424657
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\D#1vH.flac
+lokey=26 hikey=28
+pitch_keycenter=27
+lovel=81 hivel=127
+offset=0
+end=461811
+loop_start=345735
+loop_end=461796
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\F#1vH.flac
+lokey=29 hikey=31
+pitch_keycenter=30
+lovel=81 hivel=127
+offset=0
+end=351571
+loop_start=240705
+loop_end=351556
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\A1vH.flac
+lokey=32 hikey=33
+pitch_keycenter=33
+lovel=81 hivel=127
+offset=0
+end=442447
+loop_start=332232
+loop_end=442432
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\B1vH.flac
+lokey=34 hikey=35
+pitch_keycenter=35
+lovel=81 hivel=127
+offset=0
+end=366947
+loop_start=256475
+loop_end=366932
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\C2vH.flac
+lokey=36 hikey=37
+pitch_keycenter=36
+lovel=81 hivel=127
+offset=0
+end=376592
+loop_start=256636
+loop_end=376577
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\D#2vH.flac
+lokey=38 hikey=40
+pitch_keycenter=39
+lovel=81 hivel=127
+offset=0
+end=398456
+loop_start=288169
+loop_end=398441
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\F#2vH.flac
+lokey=41 hikey=45
+pitch_keycenter=42
+lovel=81 hivel=127
+offset=0
+end=393526
+loop_start=250236
+loop_end=393511
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\B2vH.flac
+lokey=46 hikey=47
+pitch_keycenter=47
+lovel=81 hivel=127
+offset=0
+end=341312
+loop_start=238940
+loop_end=341297
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\C3vH.flac
+lokey=48 hikey=49
+pitch_keycenter=48
+lovel=81 hivel=127
+offset=0
+end=307085
+loop_start=196763
+loop_end=307070
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\D#3vH.flac
+lokey=50 hikey=52
+pitch_keycenter=51
+lovel=81 hivel=127
+offset=0
+end=240329
+loop_start=162986
+loop_end=240314
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\F#3vH.flac
+lokey=53 hikey=55
+pitch_keycenter=54
+lovel=81 hivel=127
+offset=0
+end=265649
+loop_start=194343
+loop_end=265634
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\A3vH.flac
+lokey=56 hikey=57
+pitch_keycenter=57
+lovel=81 hivel=127
+offset=0
+end=186816
+loop_start=120679
+loop_end=186801
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\B3vH.flac
+lokey=58 hikey=61
+pitch_keycenter=59
+lovel=81 hivel=127
+offset=0
+end=227592
+loop_start=163021
+loop_end=227577
+loop_mode=loop_continuous
+volume=2.5236
+
+<region>
+sample=samples\A4vH.flac
+lokey=62 hikey=69
+pitch_keycenter=69
+lovel=81 hivel=127
+offset=0
+end=130505
+loop_start=0
+loop_end=130504
+volume=2.5236
+
+<region>
+sample=samples\B4vH.flac
+lokey=70 hikey=72
+pitch_keycenter=71
+lovel=81 hivel=127
+offset=0
+end=151071
+loop_start=0
+loop_end=151070
+volume=2.5236
+
+<region>
+sample=samples\D5vH.flac
+lokey=73 hikey=75
+pitch_keycenter=74
+lovel=81 hivel=127
+offset=0
+end=151071
+loop_start=0
+loop_end=151070
+volume=2.5236
+
+<region>
+sample=samples\F5vH.flac
+lokey=76 hikey=78
+pitch_keycenter=77
+lovel=81 hivel=127
+offset=0
+end=151071
+loop_start=0
+loop_end=151070
+volume=2.5236
+
+<region>
+sample=samples\G#5vH.flac
+lokey=79 hikey=81
+pitch_keycenter=80
+lovel=81 hivel=127
+offset=0
+end=151071
+loop_start=0
+loop_end=151070
+volume=2.5236
+
+<region>
+sample=samples\B5vH.flac
+lokey=82 hikey=83
+pitch_keycenter=83
+lovel=81 hivel=127
+offset=0
+end=119051
+loop_start=0
+loop_end=119050
+volume=2.5236
+
+<region>
+sample=samples\C6vH.flac
+lokey=84 hikey=85
+pitch_keycenter=84
+lovel=81 hivel=127
+offset=0
+end=97470
+loop_start=0
+loop_end=97469
+volume=2.5236
+
+<region>
+sample=samples\D#6vH.flac
+lokey=86 hikey=88
+pitch_keycenter=87
+lovel=81 hivel=127
+offset=0
+end=80973
+loop_start=0
+loop_end=80972
+volume=2.5236
+
+<region>
+sample=samples\F#6vH.flac
+lokey=89 hikey=91
+pitch_keycenter=90
+lovel=81 hivel=127
+offset=0
+end=55369
+loop_start=0
+loop_end=55368
+volume=2.5236
+
+<region>
+sample=samples\A6vH.flac
+lokey=92 hikey=93
+pitch_keycenter=93
+lovel=81 hivel=127
+offset=0
+end=55197
+loop_start=0
+loop_end=55196
+volume=2.5236
+
+<region>
+sample=samples\B6vH.flac
+lokey=94 hikey=95
+pitch_keycenter=95
+lovel=81 hivel=127
+offset=0
+end=45639
+loop_start=0
+loop_end=45638
+volume=2.5236
+
+<region>
+sample=samples\C7vH.flac
+lokey=96 hikey=97
+pitch_keycenter=96
+lovel=81 hivel=127
+offset=0
+end=78991
+loop_start=0
+loop_end=78990
+volume=2.5236
+
+<region>
+sample=samples\D#7vH.flac
+lokey=98 hikey=100
+pitch_keycenter=99
+lovel=81 hivel=127
+offset=0
+end=31224
+loop_start=0
+loop_end=31223
+volume=2.5236
+
+<region>
+sample=samples\F#7vH.flac
+lokey=101 hikey=103
+pitch_keycenter=102
+lovel=81 hivel=127
+offset=0
+end=29469
+loop_start=0
+loop_end=29468
+volume=2.5236
+
+<region>
+sample=samples\A7vH.flac
+lokey=104 hikey=105
+pitch_keycenter=105
+lovel=81 hivel=127
+offset=0
+end=40041
+loop_start=0
+loop_end=40040
+volume=2.5236
+
+<region>
+sample=samples\B7vH.flac
+lokey=106 hikey=107
+pitch_keycenter=107
+lovel=81 hivel=127
+offset=0
+end=36806
+loop_start=0
+loop_end=36805
+volume=2.5236
+
+<region>
+sample=samples\C8vH.flac
+lokey=108 hikey=108
+pitch_keycenter=108
+lovel=81 hivel=127
+offset=0
+end=30615
+loop_start=0
+loop_end=30614
+volume=2.5236
