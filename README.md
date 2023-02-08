@@ -10,4 +10,4 @@ This is a free soundfont from Upright Kawai based on [FreePats project](https://
 Visit this [page](https://arris42.github.io/demo.html)
 
 ## Files
-Available in `sfz` FLAC format by cloning or downloading this repository. See releases to get all formats. `Web-player` is still ongoing
+Available in `sfz` FLAC format by cloning or downloading this repository. See releases to get all formats.
