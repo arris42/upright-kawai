@@ -1,13 +1,14 @@
 # Upright Kawai
-This is a free soundfont from Upright Kawai based on [FreePats project](https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html). Sample results are processed and stretched from original. There are some bass frequency produced in middle keys.
+This is a free soundfont from Upright Kawai based on [FreePats project](https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html). Sample results are slightly stretched.
+
+> The Kawai Upright model looks like a C107 (despite the owner says model is still unknown).
 
 ## Features
-- Samples remade from Kawai Upright Piano (model is still unknown)
-- High quality samples, WAV format, 16-bit (FLAC is available)
-- Both `sf2` and `sfz` format
+- High quality samples, FLAC format, 16-bit
+- Available as `sf2` and `sfz`
 
 ## Demos
-Visit this [page](https://arris42.github.io/demo.html)
+Go inside [Demo](Demos/) folder
 
-## Files
-Available in `sfz` FLAC format by cloning or downloading this repository. See releases to get all formats.
+## Downloads
+See [Releases](https://github.com/arris42/upright-kawai/releases) for more formats
